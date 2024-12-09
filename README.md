@@ -57,3 +57,8 @@ __4. PDF 조회__
 __5. 신구조문의 배열 형태 확인__
 
 웹 개발자 도구를 통해 콘솔에 신구조문을 배열 형태로 출력
+
+## 화면 구성
+<img width="1440" alt="PDF 업로드" src="https://github.com/user-attachments/assets/cd1ebf8a-ad7e-4921-a8d0-c311709e393f">
+<img width="1440" alt="PDF 뷰어" src="https://github.com/user-attachments/assets/a7830880-69ef-45f7-a825-60ffe664300c">
+<img width="1440" alt="신구조문 배열" src="https://github.com/user-attachments/assets/dacc8b79-6fdf-49e0-b792-df9852aedf29">
