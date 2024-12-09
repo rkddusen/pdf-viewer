@@ -84,7 +84,7 @@ const PdfViewer = ({ pdfUrl }: PdfViewerProps) => {
         container.appendChild(canvas);
         paintBlank();
       }
-      console.log(_extractedText);
+      console.log("신구조문 이중 배열 파생 결과 : ", _extractedText);
     };
 
     loadPdf().catch((error) => {
