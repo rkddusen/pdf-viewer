@@ -17,7 +17,7 @@ React.js, Node.js, PDF.js로 구현한 PDF 뷰어 애플리케이션입니다.
 # 시작 가이드
 ## 권장 요구 사항
 - [Node.js 22.12.0](https://nodejs.org/en/blog/release/v22.12.0)
-- [Npm 10.8.1](https://www.npmjs.com/package/npm?activeTab=versions)
+- [Npm 10.9.2](https://www.npmjs.com/package/npm?activeTab=versions)
 
 ## 설치
 ```
